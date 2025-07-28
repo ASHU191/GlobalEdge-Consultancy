@@ -1,4 +1,4 @@
-# 🌍 GlobalEdge Consultancy
+ # 🌍 GlobalEdge Consultancy
 
 > Empowering businesses with strategic insights and digital presence.
 
