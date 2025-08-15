@@ -8,7 +8,7 @@ Welcome to the official repository of **GlobalEdge Consultancy** — a sleek and
  
 ---      
 
-## 🧠 What is GlobalEdge?
+## 🧠 What is GlobalEdge?         
 
 GlobalEdge Consultancy is a sample consultancy landing website with a clean interface, fast performance, and responsive layout. It's perfect for agencies, startups, or consulting firms who want to establish a bold online presence.
 
