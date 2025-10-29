@@ -1,5 +1,5 @@
  # 🌍 GlobalEdge Consultancy
- 
+    
 > Empowering businesses with strategic insights and digital presence.
 
 Welcome to the official repository of **GlobalEdge Consultancy** — a sleek and modern business website crafted with **Next.js 13+, TypeScript, and Tailwind CSS**. Built to impress, built to convert.
